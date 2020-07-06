@@ -1,16 +1,16 @@
 import React, {Component} from "react";
-import s from "./PlanetInfoComponent.module.scss";
+import s from "./PlanetInfo.module.scss";
 
-class PlanetInfoComponent extends Component {
+class PlanetInfo extends Component {
     render() {
-        const { planetId } = this.props;
+        const { planetId, planetsList } = this.props;
         return(
             <>
-                <h3>{planetId}</h3>
+                <h3>{planetsList[planetId]}</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
             </>
         );
     }
 };
 
-export default PlanetInfoComponent;
+export default PlanetInfo;

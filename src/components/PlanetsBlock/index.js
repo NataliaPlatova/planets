@@ -1,12 +1,13 @@
 import React, {Component} from "react";
 import s from "./PlanetsBlock.module.scss";
-import PlanetInfoComponent from "../PlanetInfoComponent";
-import PlanetsTabs from "../PlanetTabs";
+import PlanetInfo from "../PlanetInfo";
+import TabsBlock from "../TabsBlock";
 
+const planetList = ['Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune'];
 
 class PlanetsBlock extends Component {
     state = {
-        chosenPlanetId: 1,
+        chosenPlanetId: 0,
     };
     chooseNewPlanet = (id) => {
         this.setState({
@@ -18,8 +19,8 @@ class PlanetsBlock extends Component {
         return(
             <section>
                 <div className={`container ${s.container}`}>
-                    <PlanetsTabs onChosenTab={this.chooseNewPlanet}/>
-                    <PlanetInfoComponent planetId={chosenPlanetId}/>
+                    <TabsBlock planetsList={planetList} onChosenTab={this.chooseNewPlanet}/>
+                    <PlanetInfo planetsList={planetList} planetId={chosenPlanetId}/>
                 </div>
             </section>
         );
