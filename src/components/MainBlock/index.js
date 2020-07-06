@@ -1,11 +1,15 @@
-import React from 'react';
-import s from './MainBlock.module.scss';
+import React from "react";
+import s from "./MainBlock.module.scss";
 
-const MainBlock = ({children}) => {
+const MainBlock = () => {
     return (
-        <div className={s.mainBlock}>
-            <h1>Hi!</h1>
-        </div>
+        <section className={s.mainBlock}>
+            <div className={`container ${s.container}`}>
+                <h1>Planets</h1>
+                <h2>of our Solar System</h2>
+                <button>About the planets</button>
+            </div>
+        </section>
     );
 };
 
