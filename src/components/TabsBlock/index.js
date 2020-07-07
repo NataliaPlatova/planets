@@ -8,7 +8,11 @@ class TabsBlock extends Component {
             <ul className={s.tablist}>
                 {
                     planetsList.map((planet, id) =>
-                        <li key={planet}><button onClick={() => {onChosenTab(id);}} id={id}>{planet}</button></li>
+                        <li key={planet}>
+                            <button onClick={() => {onChosenTab(id);}} id={id}>
+                                {planet}
+                            </button>
+                        </li>
                     )
                 }
             </ul>

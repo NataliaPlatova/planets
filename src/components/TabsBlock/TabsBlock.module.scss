@@ -1,5 +1,10 @@
 .tablist {
+  margin-bottom: 104px;
   &>li {
     display: inline-block;
+    &>button {
+      width: 108px;
+      height: 108px;
+    }
   }
 }

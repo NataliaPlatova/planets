@@ -5,80 +5,80 @@
       "p1": "Mercury is the closest planet to the sun. As such, it circles the sun faster than all the other planets, which is why Romans named it after their swift-footed messenger god.\n\nThe Sumerians also knew of Mercury since at least 5,000 years ago. It was often associated with Nabu, the god of writing. Mercury was also given separate names for its appearance as both a morning star and as an evening star. Greek astronomers knew, however, that the two names referred to the same body, and Heraclitus, around 500 B.C., correctly thought that both Mercury and Venus orbited the sun, not Earth.",
       "p2": "Because the planet is so close to the sun, Mercury's surface temperature can reach a scorching 840 degrees Fahrenheit (450 degrees Celsius). However, since this world doesn't have much of a real atmosphere to entrap any heat, at night temperatures can plummet to minus 275 F (minus 170 C), a temperature swing of more than 1,100 degrees F (600 degree C), the greatest in the solar system.",
       "p3": "Mercury is the smallest planet — it is only slightly larger than Earth's moon. Since it has no significant atmosphere to stop impacts, the planet is pockmarked with craters. About 4 billion years ago, an asteroid roughly 60 miles (100 kilometers) wide struck Mercury with an impact equal to 1 trillion 1-megaton bombs, creating a vast impact crater roughly 960 miles (1,550 km) wide. Known as the Caloris Basin, this crater could hold the entire state of Texas. Another large impact may have helped create the planet's odd spin.",
-      "Mean diameter": "4880 km",
+      "Mean radius": "2,439.7±1.0",
       "Surface area": "7.48×10^7 km2",
       "Mass": "3.3011×10^23 kg",
-      "Surface gravity": "3.7 m/s2"
+      "Surface gravity": "0.38"
     },
     {
       "name": "Venus",
       "p1": "Venus, the second planet from the sun, is named after the Roman goddess of love and beauty and is the only planet named after a female. Venus may have been named after the most beautiful deity of the pantheon because it shone the brightest among the five planets known to ancient astronomers.\n\nIn ancient times, Venus was often thought to be two different stars, the evening star and the morning star — that is, the ones that first appeared at sunset and sunrise. In Latin, they were respectively known as Vesper and Lucifer. In Christian times, Lucifer, or \"light-bringer,\" became known as the name of Satan before his fall. However, further observations of Venus in the space age show a very hellish environment. This makes Venus a very difficult planet to observe from up close, because spacecraft do not survive long on its surface.",
       "p2": "Venus is the hottest planet in the solar system. Although Venus is not the planet closest to the sun, its dense atmosphere traps heat in a runaway version of the greenhouse effect that warms Earth. As a result, temperatures on Venus reach 880 degrees Fahrenheit (471 degrees Celsius), which is more than hot enough to melt lead. Spacecraft have survived only a few hours after landing on the planet before being destroyed.",
       "p3": "The atmosphere on Venus is hellish as well, consisting mainly of carbon dioxide with clouds of sulfuric acid, and only trace amounts of water. The atmosphere is heavier than that of any other planet, leading to a surface pressure that's over 90 times that of Earth — similar to the pressure that exists 3,300 feet (1,000 meters) deep in the ocean. Incredibly, however, early in Venus' history, the planet may have been habitable, according to models from researchers at NASA's Goddard Institute for Space Studies.\n\nThe surface of Venus is extremely dry. During its evolution, ultraviolet rays from the sun evaporated water quickly, keeping the planet in a prolonged molten state. There is no liquid water on its surface today because the scorching heat created by its ozone-filled atmosphere would cause water to boil away.",
-      "Mean diameter": "4880 km",
-      "Surface area": "4.6023×10^8 km2",
-      "Mass": "4.8675×10^24 kg",
-      "Surface gravity": "8.87 m/s2"
+      "Mean radius": "6,051.8±1.0",
+      "Surface area": "4.6023×10^8",
+      "Mass": "4.8675×10^24",
+      "Surface gravity": "0.904"
     },
     {
       "name": "Earth",
-      "p1": "Mercury is the closest planet to the sun. As such, it circles the sun faster than all the other planets, which is why Romans named it after their swift-footed messenger god.\n\nThe Sumerians also knew of Mercury since at least 5,000 years ago. It was often associated with Nabu, the god of writing. Mercury was also given separate names for its appearance as both a morning star and as an evening star. Greek astronomers knew, however, that the two names referred to the same body, and Heraclitus, around 500 B.C., correctly thought that both Mercury and Venus orbited the sun, not Earth.",
-      "p2": "Because the planet is so close to the sun, Mercury's surface temperature can reach a scorching 840 degrees Fahrenheit (450 degrees Celsius). However, since this world doesn't have much of a real atmosphere to entrap any heat, at night temperatures can plummet to minus 275 F (minus 170 C), a temperature swing of more than 1,100 degrees F (600 degree C), the greatest in the solar system.",
-      "p3": "Mercury is the smallest planet — it is only slightly larger than Earth's moon. Since it has no significant atmosphere to stop impacts, the planet is pockmarked with craters. About 4 billion years ago, an asteroid roughly 60 miles (100 kilometers) wide struck Mercury with an impact equal to 1 trillion 1-megaton bombs, creating a vast impact crater roughly 960 miles (1,550 km) wide. Known as the Caloris Basin, this crater could hold the entire state of Texas. Another large impact may have helped create the planet's odd spin.",
-      "Mean diameter": "4880 km",
-      "Surface area": "7.48×107 km2",
-      "Mass": "3.3011×1023 kg",
-      "Surface gravity": "3.7 m/s2"
+      "p1": "Earth, our home, is the third planet from the sun. It's the only planet known to have an atmosphere containing free oxygen, oceans of water on its surface and, of course, life. Earth is the fifth largest of the planets in the solar system. It's smaller than the four gas giants — Jupiter, Saturn, Uranus and Neptune — but larger than the three other rocky planets, Mercury, Mars and Venus.",
+      "p2": "Water covers roughly 71 percent of Earth's surface, and most of that is in the oceans. About a fifth of Earth's atmosphere consists of oxygen, produced by plants. While scientists have been studying our planet for centuries, much has been learned in recent decades by studying pictures of Earth from space.",
+      "p3": "Earth is the only planet in the universe known to possess life. The planet boasts several million species of life, living in habitats ranging from the bottom of the deepest ocean to a few miles into the atmosphere. And scientists think far more species remain to be discovered.\n\nResearchers suspect that other candidates for hosting life in our solar system — such as Saturn's moon Titan or Jupiter's moon Europa — could house primitive living creatures. Scientists have yet to precisely nail down exactly how our primitive ancestors first showed up on Earth. One solution suggests that life first evolved on the nearby planet Mars, once a habitable planet, then traveled to Earth on meteorites hurled from the Red Planet by impacts from other space rocks.",
+      "Mean radius": "6371",
+      "Surface area": "510072000",
+      "Mass": "5.97237×10^24",
+      "Surface gravity": "1"
     },
     {
       "name": "Mars",
-      "p1": "Mercury is the closest planet to the sun. As such, it circles the sun faster than all the other planets, which is why Romans named it after their swift-footed messenger god.\n\nThe Sumerians also knew of Mercury since at least 5,000 years ago. It was often associated with Nabu, the god of writing. Mercury was also given separate names for its appearance as both a morning star and as an evening star. Greek astronomers knew, however, that the two names referred to the same body, and Heraclitus, around 500 B.C., correctly thought that both Mercury and Venus orbited the sun, not Earth.",
-      "p2": "Because the planet is so close to the sun, Mercury's surface temperature can reach a scorching 840 degrees Fahrenheit (450 degrees Celsius). However, since this world doesn't have much of a real atmosphere to entrap any heat, at night temperatures can plummet to minus 275 F (minus 170 C), a temperature swing of more than 1,100 degrees F (600 degree C), the greatest in the solar system.",
-      "p3": "Mercury is the smallest planet — it is only slightly larger than Earth's moon. Since it has no significant atmosphere to stop impacts, the planet is pockmarked with craters. About 4 billion years ago, an asteroid roughly 60 miles (100 kilometers) wide struck Mercury with an impact equal to 1 trillion 1-megaton bombs, creating a vast impact crater roughly 960 miles (1,550 km) wide. Known as the Caloris Basin, this crater could hold the entire state of Texas. Another large impact may have helped create the planet's odd spin.",
-      "Mean diameter": "4880 km",
-      "Surface area": "7.48×107 km2",
-      "Mass": "3.3011×1023 kg",
-      "Surface gravity": "3.7 m/s2"
+      "p1": "Mars is the fourth planet from the sun. Befitting the Red Planet's bloody color, the Romans named it after their god of war. In truth, the Romans copied the ancient Greeks, who also named the planet after their god of war, Ares. Other civilizations also typically gave the planet names based on its color — for example, the Egyptians named it \"Her Desher,\" meaning \"the red one,\" while ancient Chinese astronomers dubbed it \"the fire star.\"",
+      "p2": "The bright rust color Mars is known for is due to iron-rich minerals in its regolith — the loose dust and rock covering its surface. The soil of Earth is a kind of regolith, too, albeit one loaded with organic content. According to NASA, the iron minerals oxidize, or rust, causing the soil to look red.",
+      "p3": "Mars also has the largest volcanoes in the solar system, Olympus Mons being one of them. The massive volcano, which is about 370 miles (600 km) in diameter, is wide enough to cover the state of New Mexico. Olympus Mons is a shield volcano, with slopes that rise gradually like those of Hawaiian volcanoes, and was created by eruptions of lavas that flowed for long distances before solidifying. Mars also has many other kinds of volcanic landforms, from small, steep-sided cones to enormous plains coated in hardened lava. Some minor eruptions might still occur on the planet.",
+      "Mean radius": "3389.5 ± 0.2",
+      "Surface area": "144798500",
+      "Mass": "6.4171×10^23",
+      "Surface gravity": "0.3794"
     },
     {
       "name": "Jupiter",
-      "p1": "Mercury is the closest planet to the sun. As such, it circles the sun faster than all the other planets, which is why Romans named it after their swift-footed messenger god.\n\nThe Sumerians also knew of Mercury since at least 5,000 years ago. It was often associated with Nabu, the god of writing. Mercury was also given separate names for its appearance as both a morning star and as an evening star. Greek astronomers knew, however, that the two names referred to the same body, and Heraclitus, around 500 B.C., correctly thought that both Mercury and Venus orbited the sun, not Earth.",
-      "p2": "Because the planet is so close to the sun, Mercury's surface temperature can reach a scorching 840 degrees Fahrenheit (450 degrees Celsius). However, since this world doesn't have much of a real atmosphere to entrap any heat, at night temperatures can plummet to minus 275 F (minus 170 C), a temperature swing of more than 1,100 degrees F (600 degree C), the greatest in the solar system.",
-      "p3": "Mercury is the smallest planet — it is only slightly larger than Earth's moon. Since it has no significant atmosphere to stop impacts, the planet is pockmarked with craters. About 4 billion years ago, an asteroid roughly 60 miles (100 kilometers) wide struck Mercury with an impact equal to 1 trillion 1-megaton bombs, creating a vast impact crater roughly 960 miles (1,550 km) wide. Known as the Caloris Basin, this crater could hold the entire state of Texas. Another large impact may have helped create the planet's odd spin.",
-      "Mean diameter": "4880 km",
-      "Surface area": "7.48×107 km2",
-      "Mass": "3.3011×1023 kg",
-      "Surface gravity": "3.7 m/s2"
+      "p1": "Jupiter is the largest planet in the solar system. Fittingly, it was named after the king of the gods in Roman mythology. In a similar manner, the ancient Greeks named the planet after Zeus, the king of the Greek pantheon.",
+      "p2": "The most extraordinary feature on Jupiter is the Great Red Spot, a giant hurricane-like storm that's lasted more than 300 years. At its widest, the Great Red Spot is about twice the size of Earth, and its edge spins counterclockwise around its center at speeds of about 270 to 425 mph (430 to 680 km/h). The color of the storm, which usually varies from brick red to slightly brown, may come from small amounts of sulfur and phosphorus in the ammonia crystals in Jupiter's clouds. The spot has been shrinking for quite some time, although the rate may be slowing in recent years. ",
+      "p3": "Jupiter also spins faster than any other planet, taking a little under 10 hours to complete a turn on its axis, compared with 24 hours for Earth. This rapid spin makes Jupiter bulge at the equator and flatten at the poles.",
+      "Mean radius": "69,911",
+      "Surface area": "6.1419×10^10",
+      "Mass": "1.8982×10^27",
+      "Surface gravity": "2.528"
     },
     {
       "name": "Saturn",
-      "p1": "Mercury is the closest planet to the sun. As such, it circles the sun faster than all the other planets, which is why Romans named it after their swift-footed messenger god.\n\nThe Sumerians also knew of Mercury since at least 5,000 years ago. It was often associated with Nabu, the god of writing. Mercury was also given separate names for its appearance as both a morning star and as an evening star. Greek astronomers knew, however, that the two names referred to the same body, and Heraclitus, around 500 B.C., correctly thought that both Mercury and Venus orbited the sun, not Earth.",
-      "p2": "Because the planet is so close to the sun, Mercury's surface temperature can reach a scorching 840 degrees Fahrenheit (450 degrees Celsius). However, since this world doesn't have much of a real atmosphere to entrap any heat, at night temperatures can plummet to minus 275 F (minus 170 C), a temperature swing of more than 1,100 degrees F (600 degree C), the greatest in the solar system.",
-      "p3": "Mercury is the smallest planet — it is only slightly larger than Earth's moon. Since it has no significant atmosphere to stop impacts, the planet is pockmarked with craters. About 4 billion years ago, an asteroid roughly 60 miles (100 kilometers) wide struck Mercury with an impact equal to 1 trillion 1-megaton bombs, creating a vast impact crater roughly 960 miles (1,550 km) wide. Known as the Caloris Basin, this crater could hold the entire state of Texas. Another large impact may have helped create the planet's odd spin.",
-      "Mean diameter": "4880 km",
-      "Surface area": "7.48×107 km2",
-      "Mass": "3.3011×1023 kg",
-      "Surface gravity": "3.7 m/s2"
+      "p1": "Saturn is the sixth planet from the sun and the second-largest planet in the solar system. It's the farthest planet from Earth that's visible to the naked human eye, but the planet's most outstanding features — its rings — are better viewed through a telescope. Although the other gas giants in the solar system — Jupiter, Uranus and Neptune —  also have rings, Saturn's rings are particularly prominent, earning it the nickname the \"Ringed Planet.\"",
+      "p2": "Galileo Galilei was the first to see Saturn's rings in 1610, although from his telescope the rings looked more like handles or arms. Forty five years later, in 1655, Dutch astronomer Christiaan Huygens, who had a more powerful telescope, later proposed that Saturn had a thin, flat ring.\n\nAs scientists developed better instruments, they continued to learn more about the structure and composition of the rings. Saturn actually has many rings made of billions of particles of ice and rock, ranging in size from a grain of sugar to the size of a house. The particles are believed to be debris left over from comets, asteroids or shattered moons. A 2016 study also suggested the rings may be the carcasses of dwarf planets.",
+      "p3": "The rings are named alphabetically in the order they were discovered. The main rings, working out from the planet, are known as C, B and A. The innermost is the extremely faint D ring, while the outermost to date, revealed in 2009, is so big that it could fit a billion Earths within it. The Cassini Division, a gap some 2,920 miles (4,700 km) wide, separates rings B and A.",
+      "Mean radius": "58,232",
+      "Surface area": "4.27×10^10",
+      "Mass": "5.6834×10^26",
+      "Surface gravity": "1.065"
     },
     {
       "name": "Uranus",
-      "p1": "Mercury is the closest planet to the sun. As such, it circles the sun faster than all the other planets, which is why Romans named it after their swift-footed messenger god.\n\nThe Sumerians also knew of Mercury since at least 5,000 years ago. It was often associated with Nabu, the god of writing. Mercury was also given separate names for its appearance as both a morning star and as an evening star. Greek astronomers knew, however, that the two names referred to the same body, and Heraclitus, around 500 B.C., correctly thought that both Mercury and Venus orbited the sun, not Earth.",
-      "p2": "Because the planet is so close to the sun, Mercury's surface temperature can reach a scorching 840 degrees Fahrenheit (450 degrees Celsius). However, since this world doesn't have much of a real atmosphere to entrap any heat, at night temperatures can plummet to minus 275 F (minus 170 C), a temperature swing of more than 1,100 degrees F (600 degree C), the greatest in the solar system.",
-      "p3": "Mercury is the smallest planet — it is only slightly larger than Earth's moon. Since it has no significant atmosphere to stop impacts, the planet is pockmarked with craters. About 4 billion years ago, an asteroid roughly 60 miles (100 kilometers) wide struck Mercury with an impact equal to 1 trillion 1-megaton bombs, creating a vast impact crater roughly 960 miles (1,550 km) wide. Known as the Caloris Basin, this crater could hold the entire state of Texas. Another large impact may have helped create the planet's odd spin.",
-      "Mean diameter": "4880 km",
-      "Surface area": "7.48×107 km2",
-      "Mass": "3.3011×1023 kg",
-      "Surface gravity": "3.7 m/s2"
+      "p1": "Uranus is the seventh planet from the sun and the first to be discovered by scientists. Although Uranus is visible to the naked eye, it was long mistaken as a star because of the planet's dimness and slow orbit. The planet is also notable for its dramatic tilt, which causes its axis to point nearly directly at the sun.\n\nBritish astronomer William Herschel discovered Uranus on March 13, 1781, with his telescope while surveying all stars down to those about 10 times dimmer than can be seen by the naked eye. One star seemed different, and within a year Herschel realized the star followed a planetary orbit.",
+      "p2": "Uranus is blue-green in color, as a result of the methane in its mostly hydrogen-helium atmosphere. The planet is often dubbed an ice giant, since at least 80% of its mass is a fluid mix of water, methane and ammonia ice.",
+      "p3": "The rings of Uranus were the first to be seen after Saturn's. They were a significant discovery, because it helped astronomers understand that rings are a common feature of planets, not merely a peculiarity of Saturn.\n\nUranus possesses two sets of rings. The inner system of rings consists mostly of narrow, dark rings, while an outer system of two more-distant rings, discovered by the Hubble Space Telescope, are brightly colored: one red, one blue. Scientists have identified 13 known rings around Uranus.",
+      "Mean radius": "25,362±7",
+      "Surface area": "8.1156×10^9",
+      "Mass": "(8.6810±0.0013)×10^25",
+      "Surface gravity": "0.886"
     },
     {
       "name": "Neptune",
-      "p1": "Mercury is the closest planet to the sun. As such, it circles the sun faster than all the other planets, which is why Romans named it after their swift-footed messenger god.\n\nThe Sumerians also knew of Mercury since at least 5,000 years ago. It was often associated with Nabu, the god of writing. Mercury was also given separate names for its appearance as both a morning star and as an evening star. Greek astronomers knew, however, that the two names referred to the same body, and Heraclitus, around 500 B.C., correctly thought that both Mercury and Venus orbited the sun, not Earth.",
-      "p2": "Because the planet is so close to the sun, Mercury's surface temperature can reach a scorching 840 degrees Fahrenheit (450 degrees Celsius). However, since this world doesn't have much of a real atmosphere to entrap any heat, at night temperatures can plummet to minus 275 F (minus 170 C), a temperature swing of more than 1,100 degrees F (600 degree C), the greatest in the solar system.",
-      "p3": "Mercury is the smallest planet — it is only slightly larger than Earth's moon. Since it has no significant atmosphere to stop impacts, the planet is pockmarked with craters. About 4 billion years ago, an asteroid roughly 60 miles (100 kilometers) wide struck Mercury with an impact equal to 1 trillion 1-megaton bombs, creating a vast impact crater roughly 960 miles (1,550 km) wide. Known as the Caloris Basin, this crater could hold the entire state of Texas. Another large impact may have helped create the planet's odd spin.",
-      "Mean diameter": "4880 km",
-      "Surface area": "7.48×107 km2",
-      "Mass": "3.3011×1023 kg",
-      "Surface gravity": "3.7 m/s2"
+      "p1": "Neptune is the eighth planet from the sun. It was the first planet to get its existence predicted by mathematical calculations before it was actually seen through a telescope on Sept. 23, 1846. Irregularities in the orbit of Uranus led French astronomer Alexis Bouvard to suggest that the gravitational pull from another celestial body might be responsible. German astronomer Johann Galle then relied on subsequent calculations to help spot Neptune via telescope. Previously, astronomer Galileo Galilei sketched the planet, but he mistook it for a star due to its slow motion. In accordance with all the other planets seen in the sky, this new world was given a name from Greek and Roman mythology — Neptune, the Roman god of the sea.",
+      "p2": "Neptune's cloud cover has an especially vivid blue tint that is partly due to an as-yet-unidentified compound and the result of the absorption of red light by methane in the planets mostly hydrogen-helium atmosphere. Photos of Neptune reveal a blue planet, and it is often dubbed an ice giant, since it possesses a thick, slushy fluid mix of water, ammonia and methane ices under its atmosphere and is roughly 17 times Earth's mass and nearly 58 times its volume, according to a NASA fact sheet. Neptune's rocky core alone is thought to be roughly equal to Earth's mass, NASA says.",
+      "p3": "Every 248 years, Pluto moves inside Neptune's orbit for 20 years or so, during which time it is closer to the sun than Neptune. Nevertheless, Neptune remains the farthest planet from the sun, since Pluto was reclassified as a dwarf planet in 2006.",
+      "Mean radius": "24,622±19",
+      "Surface area": "7.6183×10^9",
+      "Mass": "1.02413×10^26",
+      "Surface gravity": "1.14"
     }
   ]
 }
