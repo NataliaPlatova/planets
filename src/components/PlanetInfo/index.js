@@ -8,7 +8,7 @@ class PlanetInfo extends Component {
         const planetsList = Planets.planets;
         const { planetId } = this.props;
         const currentPlanet = planetsList[planetId];
-        const caracteristics = Object.keys(currentPlanet.numbers);
+        const characteristics = Object.keys(currentPlanet.numbers);
         return(
             <div className={s.planetDescription}>
                 <div className={s.info}>
@@ -16,7 +16,7 @@ class PlanetInfo extends Component {
                     <p>{currentPlanet.p1}</p>
                     <div className={s.infoInNumbers}>
                         {
-                            caracteristics.map((item, id) => {
+                            characteristics.map((item, id) => {
                                 const value = currentPlanet.numbers[item];
                                 let measure = 'km^2';
                                 if(id===1) {
