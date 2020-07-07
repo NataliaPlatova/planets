@@ -5,6 +5,7 @@ import TextBlock from "./components/TextBlock";
 import PlanetsBlock from "./components/PlanetsBlock";
 import GalleryBlock from "./components/GalleryBlock";
 import HeaderBlock from "./components/HeaderBlock";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           <PlanetsBlock/>
           <GalleryBlock/>
         </main>
+        <Footer/>
       </>
   );
 }
