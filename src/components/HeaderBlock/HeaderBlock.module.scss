@@ -1,0 +1,35 @@
+.pageHeader {
+  position: absolute;
+  width: 100vw;
+}
+
+.container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 30px 16px;
+  border-bottom: 1px solid white;
+}
+
+.homeLink {
+  margin-right: auto;
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.links {
+  margin: 0;
+  &>li {
+    display: inline-block;
+    margin-right: 24px;
+    &>a {
+      color: white;
+      font-size: 18px;
+      text-decoration: none;
+    }
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+}
