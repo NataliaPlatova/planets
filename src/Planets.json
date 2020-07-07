@@ -1,0 +1,84 @@
+{
+  "planets": [
+    {
+      "name": "Mercury",
+      "p1": "Mercury is the closest planet to the sun. As such, it circles the sun faster than all the other planets, which is why Romans named it after their swift-footed messenger god.\n\nThe Sumerians also knew of Mercury since at least 5,000 years ago. It was often associated with Nabu, the god of writing. Mercury was also given separate names for its appearance as both a morning star and as an evening star. Greek astronomers knew, however, that the two names referred to the same body, and Heraclitus, around 500 B.C., correctly thought that both Mercury and Venus orbited the sun, not Earth.",
+      "p2": "Because the planet is so close to the sun, Mercury's surface temperature can reach a scorching 840 degrees Fahrenheit (450 degrees Celsius). However, since this world doesn't have much of a real atmosphere to entrap any heat, at night temperatures can plummet to minus 275 F (minus 170 C), a temperature swing of more than 1,100 degrees F (600 degree C), the greatest in the solar system.",
+      "p3": "Mercury is the smallest planet — it is only slightly larger than Earth's moon. Since it has no significant atmosphere to stop impacts, the planet is pockmarked with craters. About 4 billion years ago, an asteroid roughly 60 miles (100 kilometers) wide struck Mercury with an impact equal to 1 trillion 1-megaton bombs, creating a vast impact crater roughly 960 miles (1,550 km) wide. Known as the Caloris Basin, this crater could hold the entire state of Texas. Another large impact may have helped create the planet's odd spin.",
+      "Mean diameter": "4880 km",
+      "Surface area": "7.48×10^7 km2",
+      "Mass": "3.3011×10^23 kg",
+      "Surface gravity": "3.7 m/s2"
+    },
+    {
+      "name": "Venus",
+      "p1": "Venus, the second planet from the sun, is named after the Roman goddess of love and beauty and is the only planet named after a female. Venus may have been named after the most beautiful deity of the pantheon because it shone the brightest among the five planets known to ancient astronomers.\n\nIn ancient times, Venus was often thought to be two different stars, the evening star and the morning star — that is, the ones that first appeared at sunset and sunrise. In Latin, they were respectively known as Vesper and Lucifer. In Christian times, Lucifer, or \"light-bringer,\" became known as the name of Satan before his fall. However, further observations of Venus in the space age show a very hellish environment. This makes Venus a very difficult planet to observe from up close, because spacecraft do not survive long on its surface.",
+      "p2": "Venus is the hottest planet in the solar system. Although Venus is not the planet closest to the sun, its dense atmosphere traps heat in a runaway version of the greenhouse effect that warms Earth. As a result, temperatures on Venus reach 880 degrees Fahrenheit (471 degrees Celsius), which is more than hot enough to melt lead. Spacecraft have survived only a few hours after landing on the planet before being destroyed.",
+      "p3": "The atmosphere on Venus is hellish as well, consisting mainly of carbon dioxide with clouds of sulfuric acid, and only trace amounts of water. The atmosphere is heavier than that of any other planet, leading to a surface pressure that's over 90 times that of Earth — similar to the pressure that exists 3,300 feet (1,000 meters) deep in the ocean. Incredibly, however, early in Venus' history, the planet may have been habitable, according to models from researchers at NASA's Goddard Institute for Space Studies.\n\nThe surface of Venus is extremely dry. During its evolution, ultraviolet rays from the sun evaporated water quickly, keeping the planet in a prolonged molten state. There is no liquid water on its surface today because the scorching heat created by its ozone-filled atmosphere would cause water to boil away.",
+      "Mean diameter": "4880 km",
+      "Surface area": "4.6023×10^8 km2",
+      "Mass": "4.8675×10^24 kg",
+      "Surface gravity": "8.87 m/s2"
+    },
+    {
+      "name": "Earth",
+      "p1": "Mercury is the closest planet to the sun. As such, it circles the sun faster than all the other planets, which is why Romans named it after their swift-footed messenger god.\n\nThe Sumerians also knew of Mercury since at least 5,000 years ago. It was often associated with Nabu, the god of writing. Mercury was also given separate names for its appearance as both a morning star and as an evening star. Greek astronomers knew, however, that the two names referred to the same body, and Heraclitus, around 500 B.C., correctly thought that both Mercury and Venus orbited the sun, not Earth.",
+      "p2": "Because the planet is so close to the sun, Mercury's surface temperature can reach a scorching 840 degrees Fahrenheit (450 degrees Celsius). However, since this world doesn't have much of a real atmosphere to entrap any heat, at night temperatures can plummet to minus 275 F (minus 170 C), a temperature swing of more than 1,100 degrees F (600 degree C), the greatest in the solar system.",
+      "p3": "Mercury is the smallest planet — it is only slightly larger than Earth's moon. Since it has no significant atmosphere to stop impacts, the planet is pockmarked with craters. About 4 billion years ago, an asteroid roughly 60 miles (100 kilometers) wide struck Mercury with an impact equal to 1 trillion 1-megaton bombs, creating a vast impact crater roughly 960 miles (1,550 km) wide. Known as the Caloris Basin, this crater could hold the entire state of Texas. Another large impact may have helped create the planet's odd spin.",
+      "Mean diameter": "4880 km",
+      "Surface area": "7.48×107 km2",
+      "Mass": "3.3011×1023 kg",
+      "Surface gravity": "3.7 m/s2"
+    },
+    {
+      "name": "Mars",
+      "p1": "Mercury is the closest planet to the sun. As such, it circles the sun faster than all the other planets, which is why Romans named it after their swift-footed messenger god.\n\nThe Sumerians also knew of Mercury since at least 5,000 years ago. It was often associated with Nabu, the god of writing. Mercury was also given separate names for its appearance as both a morning star and as an evening star. Greek astronomers knew, however, that the two names referred to the same body, and Heraclitus, around 500 B.C., correctly thought that both Mercury and Venus orbited the sun, not Earth.",
+      "p2": "Because the planet is so close to the sun, Mercury's surface temperature can reach a scorching 840 degrees Fahrenheit (450 degrees Celsius). However, since this world doesn't have much of a real atmosphere to entrap any heat, at night temperatures can plummet to minus 275 F (minus 170 C), a temperature swing of more than 1,100 degrees F (600 degree C), the greatest in the solar system.",
+      "p3": "Mercury is the smallest planet — it is only slightly larger than Earth's moon. Since it has no significant atmosphere to stop impacts, the planet is pockmarked with craters. About 4 billion years ago, an asteroid roughly 60 miles (100 kilometers) wide struck Mercury with an impact equal to 1 trillion 1-megaton bombs, creating a vast impact crater roughly 960 miles (1,550 km) wide. Known as the Caloris Basin, this crater could hold the entire state of Texas. Another large impact may have helped create the planet's odd spin.",
+      "Mean diameter": "4880 km",
+      "Surface area": "7.48×107 km2",
+      "Mass": "3.3011×1023 kg",
+      "Surface gravity": "3.7 m/s2"
+    },
+    {
+      "name": "Jupiter",
+      "p1": "Mercury is the closest planet to the sun. As such, it circles the sun faster than all the other planets, which is why Romans named it after their swift-footed messenger god.\n\nThe Sumerians also knew of Mercury since at least 5,000 years ago. It was often associated with Nabu, the god of writing. Mercury was also given separate names for its appearance as both a morning star and as an evening star. Greek astronomers knew, however, that the two names referred to the same body, and Heraclitus, around 500 B.C., correctly thought that both Mercury and Venus orbited the sun, not Earth.",
+      "p2": "Because the planet is so close to the sun, Mercury's surface temperature can reach a scorching 840 degrees Fahrenheit (450 degrees Celsius). However, since this world doesn't have much of a real atmosphere to entrap any heat, at night temperatures can plummet to minus 275 F (minus 170 C), a temperature swing of more than 1,100 degrees F (600 degree C), the greatest in the solar system.",
+      "p3": "Mercury is the smallest planet — it is only slightly larger than Earth's moon. Since it has no significant atmosphere to stop impacts, the planet is pockmarked with craters. About 4 billion years ago, an asteroid roughly 60 miles (100 kilometers) wide struck Mercury with an impact equal to 1 trillion 1-megaton bombs, creating a vast impact crater roughly 960 miles (1,550 km) wide. Known as the Caloris Basin, this crater could hold the entire state of Texas. Another large impact may have helped create the planet's odd spin.",
+      "Mean diameter": "4880 km",
+      "Surface area": "7.48×107 km2",
+      "Mass": "3.3011×1023 kg",
+      "Surface gravity": "3.7 m/s2"
+    },
+    {
+      "name": "Saturn",
+      "p1": "Mercury is the closest planet to the sun. As such, it circles the sun faster than all the other planets, which is why Romans named it after their swift-footed messenger god.\n\nThe Sumerians also knew of Mercury since at least 5,000 years ago. It was often associated with Nabu, the god of writing. Mercury was also given separate names for its appearance as both a morning star and as an evening star. Greek astronomers knew, however, that the two names referred to the same body, and Heraclitus, around 500 B.C., correctly thought that both Mercury and Venus orbited the sun, not Earth.",
+      "p2": "Because the planet is so close to the sun, Mercury's surface temperature can reach a scorching 840 degrees Fahrenheit (450 degrees Celsius). However, since this world doesn't have much of a real atmosphere to entrap any heat, at night temperatures can plummet to minus 275 F (minus 170 C), a temperature swing of more than 1,100 degrees F (600 degree C), the greatest in the solar system.",
+      "p3": "Mercury is the smallest planet — it is only slightly larger than Earth's moon. Since it has no significant atmosphere to stop impacts, the planet is pockmarked with craters. About 4 billion years ago, an asteroid roughly 60 miles (100 kilometers) wide struck Mercury with an impact equal to 1 trillion 1-megaton bombs, creating a vast impact crater roughly 960 miles (1,550 km) wide. Known as the Caloris Basin, this crater could hold the entire state of Texas. Another large impact may have helped create the planet's odd spin.",
+      "Mean diameter": "4880 km",
+      "Surface area": "7.48×107 km2",
+      "Mass": "3.3011×1023 kg",
+      "Surface gravity": "3.7 m/s2"
+    },
+    {
+      "name": "Uranus",
+      "p1": "Mercury is the closest planet to the sun. As such, it circles the sun faster than all the other planets, which is why Romans named it after their swift-footed messenger god.\n\nThe Sumerians also knew of Mercury since at least 5,000 years ago. It was often associated with Nabu, the god of writing. Mercury was also given separate names for its appearance as both a morning star and as an evening star. Greek astronomers knew, however, that the two names referred to the same body, and Heraclitus, around 500 B.C., correctly thought that both Mercury and Venus orbited the sun, not Earth.",
+      "p2": "Because the planet is so close to the sun, Mercury's surface temperature can reach a scorching 840 degrees Fahrenheit (450 degrees Celsius). However, since this world doesn't have much of a real atmosphere to entrap any heat, at night temperatures can plummet to minus 275 F (minus 170 C), a temperature swing of more than 1,100 degrees F (600 degree C), the greatest in the solar system.",
+      "p3": "Mercury is the smallest planet — it is only slightly larger than Earth's moon. Since it has no significant atmosphere to stop impacts, the planet is pockmarked with craters. About 4 billion years ago, an asteroid roughly 60 miles (100 kilometers) wide struck Mercury with an impact equal to 1 trillion 1-megaton bombs, creating a vast impact crater roughly 960 miles (1,550 km) wide. Known as the Caloris Basin, this crater could hold the entire state of Texas. Another large impact may have helped create the planet's odd spin.",
+      "Mean diameter": "4880 km",
+      "Surface area": "7.48×107 km2",
+      "Mass": "3.3011×1023 kg",
+      "Surface gravity": "3.7 m/s2"
+    },
+    {
+      "name": "Neptune",
+      "p1": "Mercury is the closest planet to the sun. As such, it circles the sun faster than all the other planets, which is why Romans named it after their swift-footed messenger god.\n\nThe Sumerians also knew of Mercury since at least 5,000 years ago. It was often associated with Nabu, the god of writing. Mercury was also given separate names for its appearance as both a morning star and as an evening star. Greek astronomers knew, however, that the two names referred to the same body, and Heraclitus, around 500 B.C., correctly thought that both Mercury and Venus orbited the sun, not Earth.",
+      "p2": "Because the planet is so close to the sun, Mercury's surface temperature can reach a scorching 840 degrees Fahrenheit (450 degrees Celsius). However, since this world doesn't have much of a real atmosphere to entrap any heat, at night temperatures can plummet to minus 275 F (minus 170 C), a temperature swing of more than 1,100 degrees F (600 degree C), the greatest in the solar system.",
+      "p3": "Mercury is the smallest planet — it is only slightly larger than Earth's moon. Since it has no significant atmosphere to stop impacts, the planet is pockmarked with craters. About 4 billion years ago, an asteroid roughly 60 miles (100 kilometers) wide struck Mercury with an impact equal to 1 trillion 1-megaton bombs, creating a vast impact crater roughly 960 miles (1,550 km) wide. Known as the Caloris Basin, this crater could hold the entire state of Texas. Another large impact may have helped create the planet's odd spin.",
+      "Mean diameter": "4880 km",
+      "Surface area": "7.48×107 km2",
+      "Mass": "3.3011×1023 kg",
+      "Surface gravity": "3.7 m/s2"
+    }
+  ]
+}

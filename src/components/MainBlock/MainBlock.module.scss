@@ -4,11 +4,24 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 250px 16px 200px 16px;
     &>h1 {
       font-size: 100px;
+      color: white;
+      font-weight: normal;
     }
-    &>h2 {
+    &>.subtitle {
       font-size: 36px;
+      color: white;
+      font-weight: normal;
+    }
+    &>.mainButton {
+      border: none;
+      background-color: white;
+      border-radius: 24px;
+      padding: 12px 20px;
+      font-size: 18px;
+      box-shadow: 0 0 16px white;
     }
   }
 }
