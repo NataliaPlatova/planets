@@ -9,6 +9,7 @@ class PlanetsBlock extends Component {
     state = {
         chosenPlanetId: 0,
     };
+
     chooseNewPlanet = (id) => {
         this.setState({
             chosenPlanetId: id,

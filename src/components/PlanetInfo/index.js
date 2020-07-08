@@ -3,6 +3,15 @@ import React, {Component} from "react";
 import Planets from '../../Planets';
 import s from "./PlanetInfo.module.scss";
 
+import {ReactComponent as Mercury} from "./img/Mercury.svg";
+import {ReactComponent as Venus} from "./img/Venus.svg";
+import {ReactComponent as Earth} from "./img/Earth.svg";
+import {ReactComponent as Mars} from "./img/Mars.svg";
+import {ReactComponent as Jupiter} from "./img/Jupiter.svg";
+//import {ReactComponent as Saturn} from "./img/Saturn.svg";
+import {ReactComponent as Uranus} from "./img/Uranus.svg";
+import {ReactComponent as Neptune} from "./img/Neptune.svg";
+
 class PlanetInfo extends Component {
     render() {
         const planetsList = Planets.planets;
@@ -11,6 +20,7 @@ class PlanetInfo extends Component {
         const characteristics = Object.keys(currentPlanet.numbers);
         return(
             <div className={s.planetDescription}>
+                <Mercury/>
                 <div className={s.info}>
                     <h3 className={s.planetName}>{currentPlanet.name}</h3>
                     <p>{currentPlanet.p1}</p>
@@ -35,7 +45,9 @@ class PlanetInfo extends Component {
                     </div>
                     <p>{currentPlanet.p2}</p>
                     <p>{currentPlanet.p3}</p>
-                    </div>
+                </div>
+                <div>
+                </div>
             </div>
         );
     }
