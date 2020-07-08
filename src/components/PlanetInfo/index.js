@@ -3,14 +3,14 @@ import React, {Component} from "react";
 import Planets from '../../Planets';
 import s from "./PlanetInfo.module.scss";
 
-import {ReactComponent as Mercury} from "./img/Mercury.svg";
-import {ReactComponent as Venus} from "./img/Venus.svg";
-import {ReactComponent as Earth} from "./img/Earth.svg";
-import {ReactComponent as Mars} from "./img/Mars.svg";
-import {ReactComponent as Jupiter} from "./img/Jupiter.svg";
-//import {ReactComponent as Saturn} from "./img/Saturn.svg";
-import {ReactComponent as Uranus} from "./img/Uranus.svg";
-import {ReactComponent as Neptune} from "./img/Neptune.svg";
+import Mercury from "./img/Mercury.png";
+import Venus from "./img/Venus.png";
+import Earth from "./img/Earth.png";
+import Mars from "./img/Mars.png";
+import Jupiter from "./img/Jupiter.png";
+//import {ReactComponent as Saturn} from "./img/Saturn.png";
+import Uranus from "./img/Uranus.png";
+import Neptune from "./img/Neptune.png";
 
 class PlanetInfo extends Component {
     render() {
@@ -20,7 +20,6 @@ class PlanetInfo extends Component {
         const characteristics = Object.keys(currentPlanet.numbers);
         return(
             <div className={s.planetDescription}>
-                <Mercury/>
                 <div className={s.info}>
                     <h3 className={s.planetName}>{currentPlanet.name}</h3>
                     <p>{currentPlanet.p1}</p>
@@ -46,7 +45,29 @@ class PlanetInfo extends Component {
                     <p>{currentPlanet.p2}</p>
                     <p>{currentPlanet.p3}</p>
                 </div>
-                <div>
+                <div className={planetId===0? s.planetPhoto:s.invisible}>
+                    <img src={Mercury}/>
+                </div>
+                <div className={planetId===1? s.planetPhoto:s.invisible}>
+                    <img src={Venus}/>
+                </div>
+                <div className={planetId===2? s.planetPhoto:s.invisible}>
+                    <img src={Earth}/>
+                </div>
+                <div className={planetId===3? s.planetPhoto:s.invisible}>
+                    <img src={Mars}/>
+                </div>
+                <div className={planetId===4? s.planetPhoto:s.invisible}>
+                    <img src={Jupiter}/>
+                </div>
+                <div className={planetId===5? s.planetPhoto:s.invisible}>
+                    <img src={Uranus}/>
+                </div>
+                <div className={planetId===6? s.planetPhoto:s.invisible}>
+                    <img src={Uranus}/>
+                </div>
+                <div className={planetId===7? s.planetPhoto:s.invisible}>
+                    <img src={Neptune}/>
                 </div>
             </div>
         );
