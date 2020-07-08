@@ -21,13 +21,13 @@ class PlanetInfo extends Component {
         return(
             <div className={s.planetDescription}>
                 <div className={s.info}>
-                    <h3 className={s.planetName}>{currentPlanet.name}</h3>
+                    <h2 className={s.planetName}>{currentPlanet.name}</h2>
                     <p>{currentPlanet.p1}</p>
                     <div className={s.infoInNumbers}>
                         {
                             characteristics.map((item, id) => {
                                 const value = currentPlanet.numbers[item];
-                                let measure = 'km^2';
+                                let measure = 'km²';
                                 if(id===1) {
                                     measure = 'kg';
                                 } else if (id===2) {

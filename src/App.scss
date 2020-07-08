@@ -64,15 +64,39 @@ h1, h2, h3, h4, p, span {
   color: white;
 }
 
+h2 {
+  font-size: 40px;
+  font-weight: normal;
+  margin-bottom: 32px;
+}
+
 ul {
   list-style: none;
   padding: 0;
 }
 
-.container {
-  max-width: 1160px;
-  margin: 0 auto;
-  padding: 16px 0;
-  box-sizing: content-box;
+button {
+  &:hover {
+    cursor: pointer;
+  }
+  &:active, &:focus {
+    outline: none;
+  }
 }
+
+  .container {
+    max-width: 1160px;
+    margin: 0 auto;
+    padding: 16px 0;
+    box-sizing: content-box;
+  }
+
+  .solarSystem {
+    background-color: rgba(18, 23, 33, 30);
+    &__text {
+      width: 80%;
+      margin-bottom: 24px;
+    }
+  }
+
 
