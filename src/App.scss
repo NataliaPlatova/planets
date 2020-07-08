@@ -45,6 +45,17 @@ body {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
+  box-sizing: content-box;
+}
+
+main {
+  box-sizing: border-box;
+}
+
+section {
+  width: 100vw;
+  padding: 16px;
+  box-sizing: border-box;
 }
 
 h1, h2, h3, h4, p, span {
@@ -61,17 +72,7 @@ ul {
 .container {
   max-width: 1160px;
   margin: 0 auto;
-  padding: 16px;
+  padding: 16px 0;
   box-sizing: content-box;
 }
 
-@mixin mediaQuery($width, $type: min) {
-  $width: $width;
-  @if $type == max {
-    $width: $width - 1px;
-  }
-
-  @media only screen and (#{$type}-width: $width) {
-    @content;
-  }
-}
