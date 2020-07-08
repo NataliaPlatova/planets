@@ -1,4 +1,7 @@
 .mainBlock {
+  background-image: url("./img/mars-background.png");
+  background-repeat: no-repeat;
+  background-position: 50% 110%;
   &>.container {
     display: flex;
     flex-direction: column;

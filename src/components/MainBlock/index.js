@@ -1,4 +1,5 @@
 import React from "react";
+
 import s from "./MainBlock.module.scss";
 
 const MainBlock = () => {
