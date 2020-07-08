@@ -26,11 +26,13 @@
     }
     &>.mainButton {
       border: none;
+      display: block;
       background-color: white;
       border-radius: 30px;
       padding: 16px 24px;
       font-size: 18px;
       box-shadow: 0 0 8px white;
+      color: black;
       &:hover {
         box-shadow: 0 0 24px white;
         color: rgba(0, 0, 0, 50%);

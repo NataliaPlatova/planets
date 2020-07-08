@@ -1,6 +1,12 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+}
 .tablist {
   margin-bottom: 104px;
-  width: 100%;
   text-align: center;
   &>li {
     display: inline-block;
@@ -8,7 +14,7 @@
     &:last-child {
       margin-right: 0;
     }
-    &>button {
+    &>a {
       width: 108px;
       display: inline-block;
       padding: 0 0 16px;

@@ -8,7 +8,7 @@ const MainBlock = () => {
             <div className={`container ${s.container}`}>
                 <h1>Planets</h1>
                 <span className={s.subtitle}>of our Solar System</span>
-                <button className={s.mainButton}>Read about the planets</button>
+                <a className={s.mainButton} href="#AboutPlanets">Read about the planets</a>
             </div>
         </section>
     );

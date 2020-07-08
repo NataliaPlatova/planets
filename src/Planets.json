@@ -7,7 +7,7 @@
       "p3": "Mercury is the smallest planet — it is only slightly larger than Earth's moon. Since it has no significant atmosphere to stop impacts, the planet is pockmarked with craters. About 4 billion years ago, an asteroid roughly 60 miles (100 kilometers) wide struck Mercury with an impact equal to 1 trillion 1-megaton bombs, creating a vast impact crater roughly 960 miles (1,550 km) wide. Known as the Caloris Basin, this crater could hold the entire state of Texas. Another large impact may have helped create the planet's odd spin.",
       "numbers": {
         "Surface area": "7.48×10⁷",
-        "Mass": "3.3011×10²³",
+        "Mass": "3.30×10²³",
         "Surface gravity": "0.38"
       },
       "photo": "./img/Mercury.png"
@@ -18,9 +18,9 @@
       "p2": "Venus is the hottest planet in the solar system. Although Venus is not the planet closest to the sun, its dense atmosphere traps heat in a runaway version of the greenhouse effect that warms Earth. As a result, temperatures on Venus reach 880 degrees Fahrenheit (471 degrees Celsius), which is more than hot enough to melt lead. Spacecraft have survived only a few hours after landing on the planet before being destroyed.",
       "p3": "The atmosphere on Venus is hellish as well, consisting mainly of carbon dioxide with clouds of sulfuric acid, and only trace amounts of water. The atmosphere is heavier than that of any other planet, leading to a surface pressure that's over 90 times that of Earth — similar to the pressure that exists 3,300 feet (1,000 meters) deep in the ocean. Incredibly, however, early in Venus' history, the planet may have been habitable, according to models from researchers at NASA's Goddard Institute for Space Studies.\n\nThe surface of Venus is extremely dry. During its evolution, ultraviolet rays from the sun evaporated water quickly, keeping the planet in a prolonged molten state. There is no liquid water on its surface today because the scorching heat created by its ozone-filled atmosphere would cause water to boil away.",
       "numbers": {
-        "Surface area": "4.6023×10⁸",
-        "Mass": "4.8675×10²⁴",
-        "Surface gravity": "0.904"
+        "Surface area": "4.60×10⁸",
+        "Mass": "4.86×10²⁴",
+        "Surface gravity": "0.90"
       },
       "photo": "./img/Mercury.png"
     },
@@ -31,7 +31,7 @@
       "p3": "Earth is the only planet in the universe known to possess life. The planet boasts several million species of life, living in habitats ranging from the bottom of the deepest ocean to a few miles into the atmosphere. And scientists think far more species remain to be discovered.\n\nResearchers suspect that other candidates for hosting life in our solar system — such as Saturn's moon Titan or Jupiter's moon Europa — could house primitive living creatures. Scientists have yet to precisely nail down exactly how our primitive ancestors first showed up on Earth. One solution suggests that life first evolved on the nearby planet Mars, once a habitable planet, then traveled to Earth on meteorites hurled from the Red Planet by impacts from other space rocks.",
       "numbers": {
         "Surface area": "510072000",
-        "Mass": "5.97237×10²⁴",
+        "Mass": "5.97×10²⁴",
         "Surface gravity": "1"
       },
       "photo": "./img/Mercury.png"
@@ -43,8 +43,8 @@
       "p3": "Mars also has the largest volcanoes in the solar system, Olympus Mons being one of them. The massive volcano, which is about 370 miles (600 km) in diameter, is wide enough to cover the state of New Mexico. Olympus Mons is a shield volcano, with slopes that rise gradually like those of Hawaiian volcanoes, and was created by eruptions of lavas that flowed for long distances before solidifying. Mars also has many other kinds of volcanic landforms, from small, steep-sided cones to enormous plains coated in hardened lava. Some minor eruptions might still occur on the planet.",
       "numbers": {
         "Surface area": "144798500",
-        "Mass": "6.4171×10²³",
-        "Surface gravity": "0.3794"
+        "Mass": "6.42×10²³",
+        "Surface gravity": "0.37"
       },
       "photo": "./img/Mercury.png"
     },
@@ -54,9 +54,9 @@
       "p2": "The most extraordinary feature on Jupiter is the Great Red Spot, a giant hurricane-like storm that's lasted more than 300 years. At its widest, the Great Red Spot is about twice the size of Earth, and its edge spins counterclockwise around its center at speeds of about 270 to 425 mph (430 to 680 km/h). The color of the storm, which usually varies from brick red to slightly brown, may come from small amounts of sulfur and phosphorus in the ammonia crystals in Jupiter's clouds. The spot has been shrinking for quite some time, although the rate may be slowing in recent years. ",
       "p3": "Jupiter also spins faster than any other planet, taking a little under 10 hours to complete a turn on its axis, compared with 24 hours for Earth. This rapid spin makes Jupiter bulge at the equator and flatten at the poles.",
       "numbers": {
-        "Surface area": "6.1419×10¹⁰",
-        "Mass": "1.8982×10²⁷",
-        "Surface gravity": "2.528"
+        "Surface area": "6.14×10¹⁰",
+        "Mass": "1.89×10²⁷",
+        "Surface gravity": "2.52"
       },
       "photo": "./img/Mercury.png"
     },
@@ -67,8 +67,8 @@
       "p3": "The rings are named alphabetically in the order they were discovered. The main rings, working out from the planet, are known as C, B and A. The innermost is the extremely faint D ring, while the outermost to date, revealed in 2009, is so big that it could fit a billion Earths within it. The Cassini Division, a gap some 2,920 miles (4,700 km) wide, separates rings B and A.",
       "numbers": {
         "Surface area": "4.27×10¹⁰",
-        "Mass": "5.6834×10²⁶",
-        "Surface gravity": "1.065"
+        "Mass": "5.68×10²⁶",
+        "Surface gravity": "1.07"
       },
       "photo": "./img/Mercury.png"
     },
@@ -78,9 +78,9 @@
       "p2": "Uranus is blue-green in color, as a result of the methane in its mostly hydrogen-helium atmosphere. The planet is often dubbed an ice giant, since at least 80% of its mass is a fluid mix of water, methane and ammonia ice.",
       "p3": "The rings of Uranus were the first to be seen after Saturn's. They were a significant discovery, because it helped astronomers understand that rings are a common feature of planets, not merely a peculiarity of Saturn.\n\nUranus possesses two sets of rings. The inner system of rings consists mostly of narrow, dark rings, while an outer system of two more-distant rings, discovered by the Hubble Space Telescope, are brightly colored: one red, one blue. Scientists have identified 13 known rings around Uranus.",
       "numbers": {
-        "Surface area": "8.1156×10⁹",
-        "Mass": "(8.6810±0.0013)×10²⁵",
-        "Surface gravity": "0.886"
+        "Surface area": "8.12×10⁹",
+        "Mass": "8.68×10²⁵",
+        "Surface gravity": "0.89"
       },
       "photo": "./img/Mercury.png"
     },
@@ -90,8 +90,8 @@
       "p2": "Neptune's cloud cover has an especially vivid blue tint that is partly due to an as-yet-unidentified compound and the result of the absorption of red light by methane in the planets mostly hydrogen-helium atmosphere. Photos of Neptune reveal a blue planet, and it is often dubbed an ice giant, since it possesses a thick, slushy fluid mix of water, ammonia and methane ices under its atmosphere and is roughly 17 times Earth's mass and nearly 58 times its volume, according to a NASA fact sheet. Neptune's rocky core alone is thought to be roughly equal to Earth's mass, NASA says.",
       "p3": "Every 248 years, Pluto moves inside Neptune's orbit for 20 years or so, during which time it is closer to the sun than Neptune. Nevertheless, Neptune remains the farthest planet from the sun, since Pluto was reclassified as a dwarf planet in 2006.",
       "numbers": {
-        "Surface area": "7.6183×10⁹",
-        "Mass": "1.02413×10²⁶",
+        "Surface area": "7.61×10⁹",
+        "Mass": "1.02×10²⁶",
         "Surface gravity": "1.14"
       },
       "photo": "./img/Mercury.png"

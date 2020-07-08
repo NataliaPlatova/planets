@@ -7,8 +7,8 @@ const HeaderBlock = () => {
             <div className={`container ${s.container}`}>
                 <a className={s.homeLink} href="#">LearnPlanets</a>
                 <ul className={s.links}>
-                    <li><a href="#">Solar System</a></li>
-                    <li><a href="#">Planets</a></li>
+                    <li><a href="#SolarSystem">Solar System</a></li>
+                    <li><a href="#AboutPlanets">Planets</a></li>
                     <li><a href="#">Gallery</a></li>
                 </ul>
             </div>
