@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/planets/static/css/main.aa6a0294.chunk.css",
+    "main.js": "/planets/static/js/main.3cae4a14.chunk.js",
+    "main.js.map": "/planets/static/js/main.3cae4a14.chunk.js.map",
+    "runtime-main.js": "/planets/static/js/runtime-main.5ea62729.js",
+    "runtime-main.js.map": "/planets/static/js/runtime-main.5ea62729.js.map",
+    "static/js/2.c84824fc.chunk.js": "/planets/static/js/2.c84824fc.chunk.js",
+    "static/js/2.c84824fc.chunk.js.map": "/planets/static/js/2.c84824fc.chunk.js.map",
+    "index.html": "/planets/index.html",
+    "precache-manifest.49c1271108c18fe0d8519860062902d5.js": "/planets/precache-manifest.49c1271108c18fe0d8519860062902d5.js",
+    "service-worker.js": "/planets/service-worker.js",
+    "static/css/main.aa6a0294.chunk.css.map": "/planets/static/css/main.aa6a0294.chunk.css.map",
+    "static/js/2.c84824fc.chunk.js.LICENSE.txt": "/planets/static/js/2.c84824fc.chunk.js.LICENSE.txt",
+    "static/media/Earth.png": "/planets/static/media/Earth.a12230a1.png",
+    "static/media/Jupiter.png": "/planets/static/media/Jupiter.e1087edd.png",
+    "static/media/Mars.png": "/planets/static/media/Mars.abda3d31.png",
+    "static/media/Mercury.png": "/planets/static/media/Mercury.e179e81a.png",
+    "static/media/Neptune.png": "/planets/static/media/Neptune.465e28a4.png",
+    "static/media/Saturn.png": "/planets/static/media/Saturn.038a398d.png",
+    "static/media/Uranus.png": "/planets/static/media/Uranus.428e288d.png",
+    "static/media/Venus.png": "/planets/static/media/Venus.7d68af0f.png",
+    "static/media/App.scss": "/planets/static/media/background.35b57068.png",
+    "static/media/MainBlock.module.scss": "/planets/static/media/background.ed21aef5.png",
+    "static/media/pluto-1315109_1920.jpg": "/planets/static/media/pluto-1315109_1920.5a907681.jpg",
+    "static/media/solar-system.jpg": "/planets/static/media/solar-system.7a6c9bf3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ea62729.js",
+    "static/js/2.c84824fc.chunk.js",
+    "static/css/main.aa6a0294.chunk.css",
+    "static/js/main.3cae4a14.chunk.js"
+  ]
+}
