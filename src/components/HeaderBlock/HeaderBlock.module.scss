@@ -1,5 +1,5 @@
 .pageHeader {
-  position: fixed;
+  position: absolute;
   width: 100vw;
   box-sizing: border-box;
   padding: 15px 16px;
@@ -13,7 +13,7 @@
   border-bottom: 1px solid white;
 }
 
-.homeLink {
+.logo {
   margin-right: auto;
   color: white;
   text-decoration: none;

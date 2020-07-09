@@ -1,3 +1,5 @@
+@import "./Mixins";
+
 .App {
   text-align: center;
 }
@@ -46,9 +48,9 @@ html {
 
 body {
   font-family: "Roboto", sans-serif;
-  background-image: url("./background.png");
+  background-image: url("./img/background.png");
   background-size: cover;
-  height: 100vw;
+  height: 100%;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -56,6 +58,7 @@ body {
   width: 100%;
   max-width: 100%;
   overflow-x:hidden;
+  position: relative;
 }
 
 main {
@@ -66,6 +69,9 @@ section {
   width: 100vw;
   padding: 16px;
   box-sizing: border-box;
+  @include mediaQuery(728, max) {
+    padding: 16px 32px;
+  }
 }
 
 h1, h2, h3, h4, p, span {
@@ -96,6 +102,15 @@ button {
 
 a {
   text-decoration: none;
+  &:hover {
+    transition-duration: 1s;
+    border-bottom: 1px solid white;
+    opacity: 85%;
+  }
+}
+
+p {
+  margin-bottom: 24px;
 }
 
 .container {
@@ -105,11 +120,5 @@ a {
   box-sizing: content-box;
 }
 
-.solarSystem {
-  &__text {
-    width: 80%;
-    margin-bottom: 24px;
-  }
-}
 
 

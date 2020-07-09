@@ -1,12 +1,43 @@
-.container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: flex-start;
-}
+@import "../../Mixins";
 
 .textBlock {
   background-color: #29344a;
   padding-top: 40px;
   padding-bottom: 40px;
 }
+
+.container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  @include mediaQuery(728, max) {
+    flex-direction: column;
+  }
+}
+
+.text {
+  width: 50%;
+  margin-right: auto;
+  @include mediaQuery(728, max) {
+    width: 100%;
+    margin-right: 0;
+  }
+}
+
+.text_noImage {
+  width: 70%;
+  @include mediaQuery(728, max) {
+    width: 100%;
+  }
+}
+
+.image {
+  width: 40%;
+  @include mediaQuery(728, max) {
+    width: 100%;
+  }
+  &>img {
+    width: 100%;
+  }
+}
+

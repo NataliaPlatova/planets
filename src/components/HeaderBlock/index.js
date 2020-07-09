@@ -7,7 +7,7 @@ class HeaderBlock extends React.Component{
         return (
             <header className={s.pageHeader}>
                 <div className={`container ${s.container}`}>
-                    <a className={s.homeLink} href="#">LearnPlanets</a>
+                    <span className={s.logo} href="#">LearnPlanets</span>
                     <ul className={s.links}>
                         <li><a href="#SolarSystem" onClick={(e)=>{onAnchorClick(e)}}>Solar System</a></li>
                         <li><a href="#AboutPlanets" onClick={(e)=>{onAnchorClick(e)}}>Planets</a></li>

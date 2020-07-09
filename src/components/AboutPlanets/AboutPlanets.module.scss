@@ -3,7 +3,12 @@
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
+  padding: 60px 0 0;
   &>a{
     align-self: center;
+    &:hover {
+      opacity: 100%;
+      border-bottom: none;
+    }
   }
 }
