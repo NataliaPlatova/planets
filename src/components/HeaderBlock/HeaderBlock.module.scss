@@ -41,7 +41,7 @@
     }
     &:last-child {
       margin-right: 0;
-      @include mediaQuery(490, max) {
+      @include mediaQuery(500, max) {
         margin-bottom: 0;
 
       }

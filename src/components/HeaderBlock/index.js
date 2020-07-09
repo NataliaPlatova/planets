@@ -10,7 +10,7 @@ class HeaderBlock extends React.Component{
                     <span className={s.logo} href="#">LearnPlanets</span>
                     <ul className={s.links}>
                         <li><a href="#SolarSystem" onClick={(e)=>{onAnchorClick(e)}}>Solar System</a></li>
-                        <li><a href="#AboutPlanets" onClick={(e)=>{onAnchorClick(e)}}>Planets</a></li>
+                        <li><a href="#AboutPlanets" onClick={(e)=>{onAnchorClick(e)}}>About planets</a></li>
                         <li><a href="#AboutPluto" onClick={(e)=>{onAnchorClick(e)}}>About Pluto</a></li>
                     </ul>
                 </div>
