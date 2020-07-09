@@ -7,7 +7,7 @@ const Footer = () => {
         <footer className={s.pageFooter}>
             <div className={`container ${s.container}`}>
                 <span className={s.logo} href="#">LearnPlanets</span>
-                <span>Text from space.com</span>
+                <span className={s.copyright}>Texts and information from <a href="https://www.space.com/">space.com</a></span>
             </div>
         </footer>
     )

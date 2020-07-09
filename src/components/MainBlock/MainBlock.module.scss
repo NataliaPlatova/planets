@@ -38,6 +38,7 @@
       font-size: 18px;
       box-shadow: 0 0 8px white;
       color: black;
+      text-align: center;
       @include mediaQuery(360, max) {
         font-size: 16px;
       }

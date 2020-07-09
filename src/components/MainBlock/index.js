@@ -6,7 +6,7 @@ class MainBlock extends React.Component{
     render() {
         const { onAnchorClick } = this.props;
         return (
-            <section className={s.mainBlock}>
+            <section className={`MainBlock ${s.mainBlock}`}>
                 <div className={`container ${s.container}`}>
                     <h1>Planets</h1>
                     <span className={s.subtitle}>of our Solar System</span>

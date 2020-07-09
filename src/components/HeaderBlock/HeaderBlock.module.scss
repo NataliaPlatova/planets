@@ -1,3 +1,5 @@
+@import "../../Mixins";
+
 .pageHeader {
   position: absolute;
   width: 100vw;
@@ -17,7 +19,8 @@
   margin-right: auto;
   color: white;
   text-decoration: none;
-  font-size: 18px;
+  font-size: 24px;
+  font-weight: bold;
 }
 
 .links {
@@ -25,6 +28,12 @@
   &>li {
     display: inline-block;
     margin-right: 24px;
+    @include mediaQuery(490, max) {
+      display: block;
+      margin-right: 0;
+      text-align: right;
+      margin-bottom: 8px;
+    }
     &>a {
       color: white;
       font-size: 18px;
@@ -32,6 +41,10 @@
     }
     &:last-child {
       margin-right: 0;
+      @include mediaQuery(490, max) {
+        margin-bottom: 0;
+
+      }
     }
   }
 }

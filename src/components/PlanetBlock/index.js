@@ -9,7 +9,7 @@ class PlanetBlock extends Component {
         const currentPlanet = planetsList[planetId];
         const characteristics = Object.keys(currentPlanet.numbers);
         return(
-            <div className={s.container}>
+            <div className={`PlanetBlock ${s.planetBlock}`}>
                 <div className={s.info}>
                     <a id="PlanetBlock">
                         <h3 className={s.planetName}>{currentPlanet.name}</h3>

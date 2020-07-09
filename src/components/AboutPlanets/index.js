@@ -43,6 +43,7 @@ class AboutPlanets extends Component {
                     <a id="AboutPlanets">
                         <h2>About planets</h2>
                     </a>
+                    <span className={s.subtitle}>Read about planets of our Solar system</span>
                     <TabsBlock photos={photos} planetsList={planetsList} onChosenTab={this.chooseNewPlanet}/>
                     {
                         chosenPlanetId===null?'':<PlanetBlock photos={photos} planetsList={planetsList} planetId={chosenPlanetId}/>

@@ -8,7 +8,7 @@ class TabsBlock extends Component {
     render() {
         const { onChosenTab, planetsList, photos } = this.props;
         return(
-            <div className={s.container}>
+            <div className={`TabsBlock ${s.tabsBlock}`}>
                     <ul className={s.tablist}>
                         {
                             planetsList.map((planet, id) =>

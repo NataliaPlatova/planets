@@ -7,14 +7,20 @@
 
 .container {
   display: flex;
+  flex-direction: column;
   justify-content: flex-start;
   align-items: center;
   padding: 40px 0 24px;
 }
 
 .logo {
-  margin-right: auto;
   color: white;
   text-decoration: none;
-  font-size: 18px;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.copyright {
+  font-size: 14px;
 }

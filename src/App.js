@@ -25,25 +25,16 @@ class App extends React.Component {
                 <HeaderBlock onAnchorClick={this.smoothSlide}/>
                 <main>
                     <MainBlock onAnchorClick={this.smoothSlide}/>
-                    <TextBlock sectionName="solarSystem" image={Solar}>
+                    <TextBlock sectionName="SolarSystem" image={Solar}>
                         <a id="SolarSystem">
                             <h2>Solar System</h2>
                         </a>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                            nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-                            irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-                            anim id est laborum.</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                            nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-                            irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-                            anim id est laborum.</p>
+                        <p>Our solar system consists of our star, the Sun, and everything bound to it by gravity — the planets Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune, dwarf planets such as Pluto, dozens of moons and millions of asteroids, comets and meteoroids. Beyond our own solar system, we have discovered thousands of planetary systems orbiting other stars in the Milky Way.</p>
+                        <p>The planets of our solar system—and even some asteroids—hold more than 150 moons in their orbits.</p>
+                        <p>It takes our solar system about 230 million years to complete one orbit around the galactic center.</p>
                     </TextBlock>
                     <AboutPlanets onAnchorClick={this.smoothSlide}/>
-                    <TextBlock sectionName="About Pluto" image={Pluto}>
+                    <TextBlock sectionName="AboutPluto" image={Pluto}>
                         <a id="AboutPluto">
                             <h2>About Pluto</h2>
                         </a>

@@ -1,9 +1,11 @@
 @import "../../Mixins";
 
-.container{
+.planetBlock{
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
+  padding-bottom: 44px;
+  width: 100%;
   @include mediaQuery(728, max) {
     flex-direction: column-reverse;
     align-items: center;
@@ -42,7 +44,7 @@
   justify-content: flex-start;
   align-items: flex-start;
   flex-wrap: wrap;
-  margin: 28px 0;
+  margin: 16px 0;
   @include mediaQuery(728, max) {
     margin: 12px 0;
   }
