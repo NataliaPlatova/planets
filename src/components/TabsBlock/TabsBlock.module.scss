@@ -14,41 +14,7 @@
     &:last-child {
       margin-right: 0;
     }
-    &>a {
-      width: 108px;
-      display: inline-block;
-      padding: 0 0 16px;
-      background-color: rgba(0, 0, 0, 0);
-      border: none;
-      &:hover {
-        @extend .tab_active
-      }
-      &>figure {
-        width: 100%;
-        height: auto;
-        margin: 0;
-        &>img {
-          width: 100%;
-          height: auto;
-          margin-bottom: 8px;
-          border: 2px solid rgba(0, 0, 0, 0);
-        }
-        &>figcaption {
-          font-size: 18px;
-          color: white;
-        }
-      }
-    }
   }
 }
 
-.tab_active {
-  &>figure {
-    &>img {
-      border: 2px solid white;
-      border-radius: 6px;
-      box-shadow: 0 0 5px white;
-      transition-duration: 1s;
-    }
-  }
-}
+

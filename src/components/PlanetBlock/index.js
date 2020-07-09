@@ -11,7 +11,7 @@ class PlanetBlock extends Component {
         return(
             <div className={s.container}>
                 <div className={s.info}>
-                    <a name="PlanetBlock">
+                    <a id="PlanetBlock">
                         <h3 className={s.planetName}>{currentPlanet.name}</h3>
                     </a>
                     <p>{currentPlanet.p1}</p>

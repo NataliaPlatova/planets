@@ -1,8 +1,10 @@
 import React, {Component} from "react";
 import s from "./TabsBlock.module.scss";
+import TabButton from "../TabButton";
 
 
 class TabsBlock extends Component {
+
     render() {
         const { onChosenTab, planetsList, photos } = this.props;
         return(
@@ -11,12 +13,12 @@ class TabsBlock extends Component {
                         {
                             planetsList.map((planet, id) =>
                                 <li key={planet.name}>
-                                    <a href="#PlanetBlock" className={s.tab} onClick={() => {onChosenTab(id);}} id={id}>
-                                        <figure>
-                                            <img src={photos[id]} alt={planet.name}/>
-                                            <figcaption>{planet.name}</figcaption>
-                                        </figure>
-                                    </a>
+                                    <TabButton
+                                        onTabClick={onChosenTab}
+                                        id={id}
+                                        photoSrc={photos[id]}
+                                        planetName={planet.name}
+                                    />
                                 </li>
                             )
                         }

@@ -1,6 +1,6 @@
 import React, {Component} from "react";
 import s from "./AboutPlanets.module.scss";
-import PlanetInfo from "../PlanetBlock";
+import PlanetBlock from "../PlanetBlock";
 import TabsBlock from "../TabsBlock";
 
 import Mercury from "./img/Mercury.png";
@@ -14,18 +14,25 @@ import Neptune from "./img/Neptune.png";
 
 import Planets from '../../Planets';
 
-//const planetList = ['Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune'];
 
 class AboutPlanets extends Component {
     state = {
-        chosenPlanetId: 0,
+        chosenPlanetId: null,
+    };
+
+    slideToPlanetBlock = () => {
+        document.getElementById('PlanetBlock').scrollIntoView({
+            behavior: 'smooth',
+            block: 'center'
+        });
     };
 
     chooseNewPlanet = (id) => {
         this.setState({
             chosenPlanetId: id,
-        })
+        }, this.slideToPlanetBlock)
     };
+
     render() {
         const planetsList = Planets.planets;
         const photos = [Mercury, Venus, Earth, Mars, Jupiter, Uranus, Uranus, Neptune];
@@ -33,11 +40,13 @@ class AboutPlanets extends Component {
         return(
             <section className="AboutPlanets">
                 <div className={`container ${s.container}`}>
-                    <a name="AboutPlanets">
+                    <a id="AboutPlanets">
                         <h2>About planets</h2>
                     </a>
                     <TabsBlock photos={photos} planetsList={planetsList} onChosenTab={this.chooseNewPlanet}/>
-                    <PlanetInfo photos={photos} planetsList={planetsList} planetId={chosenPlanetId}/>
+                    {
+                        chosenPlanetId===null?'':<PlanetBlock photos={photos} planetsList={planetsList} planetId={chosenPlanetId}/>
+                    }
                 </div>
             </section>
         );

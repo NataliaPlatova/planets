@@ -3,7 +3,7 @@ import s from "./TextBlock.module.scss";
 
 const TextBlock = ({sectionName, children}) => {
     return (
-        <section className={sectionName}>
+        <section className={`${s.textBlock} ${sectionName}`}>
             <div className={`container ${s.container}`}>
                 {children}
             </div>
