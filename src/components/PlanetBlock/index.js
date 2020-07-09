@@ -1,6 +1,5 @@
 import React, {Component} from "react";
 
-import Planets from '../../Planets';
 import s from "./PlanetBlock.module.scss";
 
 

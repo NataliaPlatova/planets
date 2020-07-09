@@ -1,12 +1,21 @@
 .pageFooter {
   width: 100vw;
   position: relative;
+  box-sizing: border-box;
+  padding: 15px 16px;
 }
 
 .container {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  padding: 24px 16px;
+  padding: 40px 0 24px;
   border-top: 1px solid white;
+}
+
+.homeLink {
+  margin-right: auto;
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
 }

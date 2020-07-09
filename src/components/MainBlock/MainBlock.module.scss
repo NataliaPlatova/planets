@@ -1,9 +1,10 @@
 @import "../../Mixins";
 
 .mainBlock {
-  background-image: url("./img/mars-background.png");
+  background-image: url("./img/background.png");
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: 50% 0;
   &>.container {
     display: flex;
     flex-direction: column;

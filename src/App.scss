@@ -37,6 +37,13 @@
   }
 }
 
+html {
+  height: 100%;
+  width: 100vw;
+  overflow-x: hidden;
+  -ms-overflow-x: hidden;
+}
+
 body {
   font-family: "Roboto", sans-serif;
   background-image: url("./background.png");
@@ -46,6 +53,9 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   box-sizing: content-box;
+  width: 100%;
+  max-width: 100%;
+  overflow-x:hidden;
 }
 
 main {
@@ -96,7 +106,7 @@ a {
   }
 
   .solarSystem {
-    background-color: rgba(18, 23, 33, 30);
+    background-color: #29344a;
     padding-top: 40px;
     padding-bottom: 40px;
     &__text {
