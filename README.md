@@ -1,4 +1,5 @@
 # Planets
+[planets](https://nataliaplatova.github.io/planets/)
 
 Одностраничное веб-приложение на React.
 
